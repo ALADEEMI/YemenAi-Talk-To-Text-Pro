@@ -75,6 +75,7 @@ python --version
 ```bash
 ffmpeg -version
 ```
+**or download it from offical website and add the them into the folder bin**
 
 **Portable Installation (Bundled)**
 
